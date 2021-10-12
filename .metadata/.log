@@ -99,3 +99,28 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-05 21:23:12.398
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ExNEIHtw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-12 03:11:40.119
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-12 03:11:40.120
+!MESSAGE buffering callback sts4.classpath.ROnjGEbc FibonacciMv true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-12 03:11:40.120
+!MESSAGE executing callback sts4.classpath.ROnjGEbc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-12 03:11:40.130
+!MESSAGE executing callback sts4.classpath.ROnjGEbc SUCCESS [done]
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-10-12 03:11:43.948
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2021-10-12 03:11:43.949
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-10-12 03:11:43.949
+!MESSAGE The project description file (.project) for 'FibonacciMaven' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-10-12 03:11:43.949
+!MESSAGE The project description file (.project) for 'FibonacciMv' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-12 03:11:45.439
+!MESSAGE The workspace will exit with unsaved changes in this session.
